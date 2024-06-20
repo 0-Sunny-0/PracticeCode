@@ -2,4 +2,4 @@
 
 ## Description
 
-Just some coding exercises to assist in the learning process. 
+A few coding exercises to assist in the learning process. 
