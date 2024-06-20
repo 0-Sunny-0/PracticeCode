@@ -1,0 +1,131 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+    background-color: blueviolet;
+    color: white;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    
+    /* Same as above
+    font: normal 16px Verdana, Geneva, Tahoma  */
+
+    line-height: 1.6em;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:active {
+    color: yellow;
+}
+
+/* a:visited {
+    color:rgb(19, 230, 131)
+} */
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.button {
+    background-color: #333;
+    color: White;
+    padding: 10px 15px;
+    border: none;
+}
+
+.button:hover {
+    background-color: red;
+    color: white;
+}
+
+.box-1 {
+    background-color: white;
+    color: blueviolet;
+    border: 5px black solid;
+    border-style: dotted;
+
+    padding-top: 20px;
+
+    margin: 20px 0;
+}
+
+.box-1 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+}
+
+.box-2 {
+    background: white;
+    color: blueviolet;
+    border: 3px black dotted;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.categories {
+    border: 1px black solid;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.categories h2 {
+    text-align: center;
+}
+
+.categories ul {
+    padding: 0;
+    padding-left: 20px;
+    list-style: none;
+}
+
+.categories li {
+    padding-bottom: 6px;
+    border-bottom: dotted 1px white;
+    list-style-image: url('./images/black-checkmark-png-4.png');
+}
+
+.my-form {
+    padding: 20px;
+
+}
+
+.my-form .form-group {
+    padding-bottom: 15px;
+}
+
+.my-form label {
+    display: block;
+}
+
+.my-form input[type="text"], .my-form textarea {
+    padding: 8px;
+    width: 100%;
+}
+
+.block {
+    float: left;
+    width: 33.3%;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
