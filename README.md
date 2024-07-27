@@ -1,5 +1,46 @@
 # Practice Coding
 
-## Description
+## Table of Contents
 
-A few coding exercises to assist in the learning process. 
+- [Overview](#overview)
+    - [The Assignment](#the-challenge)
+    - [Visuals](#visuals)
+    - [Links](#links)
+- [My Process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued Development](#continued-development)
+    - [Useful Resources](#useful-resources)    
+- [Author](#author)
+- [Acknowledgments](#acknowledgements)
+
+## Overview
+
+I will be using this repo to practice various coding languages and markups. This repo will continue to be updated throughout my coding career. 
+
+### The Assignment
+
+To learn and use various methods (BootCamp activities, YouTube videos, personal projects etc) to practice coding techniques, styles, and best practices.
+
+### Visuals
+
+### Links
+
+## My Process
+
+### Built With
+
+### What I Learned
+
+### Continued Development
+
+### Useful Resources
+
+## Author
+
+## Acknowledgements
+
+- [Frontend Mentor](https://www.frontendmentor.io/home)
+- [Brad Traversy/Traversy Media](https://www.youtube.com/@TraversyMedia)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell)
+
