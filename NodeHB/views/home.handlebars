@@ -1,0 +1,9 @@
+<h1>Welcome</h1>
+{{#if published}}
+{{content}}
+
+<ul>
+{{#each people}}
+    <li>{{this.firstName}} {{this.lastName}}</li>
+{{/each}}
+</ul>
