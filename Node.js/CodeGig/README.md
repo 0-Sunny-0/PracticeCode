@@ -1,4 +1,4 @@
-# GigFinder
+# CodeGig
 
 ## Description
 
